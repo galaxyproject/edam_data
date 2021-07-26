@@ -1,0 +1,7 @@
+# For testing
+tox
+pytest
+
+# For release
+wheel
+twine
